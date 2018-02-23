@@ -40,3 +40,21 @@ todo:
 
 Any time you make changed api, just `git push heroku master`
 Heroku take code frome github and deploy on url `https://js-starter-kit-api.herokuapp.com/users`
+
+
+
+
+
+#### Получить помощь
+* [Ваши пожелания и замечания к проекту](https://github.com/it-spectre-ru/js-starter-kit/pulls)
+
+
+#### Смотрите также
+* [Лицензия](./license.md)
+
+
+
+
+
+
+
